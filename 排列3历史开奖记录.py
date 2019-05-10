@@ -1,7 +1,7 @@
 # Copyright (c) 2019 Zhang_Ray
 #
 # -*- coding:utf-8 -*-
-# @Script: 排列5历史走势分析.py
+# @Script: 排列3历史走势分析.py
 # @作者: Zhang_Ray
 # @Email: 1228506574@qq.com
 # @Create At: 2019-04-30 23:36:40
