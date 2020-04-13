@@ -7,7 +7,7 @@
 # @Create At: 2019-04-30 23:36:40
 # @最后编辑者: Zhang_Ray
 # @最后编辑时间: 2019-05-10 13:41:05
-# @文件说明: This is Spyder for lottery_pls, then analysis and deside to buy.
+# @文件说明: This is Spider for lottery_pls, then analysis and deside to buy.
 
 import numpy as np
 import requests
